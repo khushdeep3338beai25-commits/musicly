@@ -20,3 +20,19 @@ Musicly is a modern, responsive music streaming website designed to deliver an e
 
 🎨 Interactive Styling: Modern typography, animations, and visual effects.
 
+🛠️ Technologies Used
+
+HTML5 — Website structure and content.
+
+CSS3 — Styling, layouts, responsive design, and animations.
+
+Google Fonts — Enhanced typography and visual presentation.
+
+📂 Project Structure
+
+Musicly/
+├── index.html
+├── images/
+├── assets/
+├── css/
+└── js/
